@@ -1,0 +1,4 @@
+#Thu Aug 05 14:39:14 IST 2021
+base.0=C\:\\Users\\himan\\AndroidStudioProjects\\cointicker\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
